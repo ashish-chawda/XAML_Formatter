@@ -1,0 +1,7 @@
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\bin\Debug\XAMLFormatter.exe.config
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\bin\Debug\XAMLFormatter.exe
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\bin\Debug\XAMLFormatter.pdb
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\obj\Debug\XAMLFormatter.csprojAssemblyReference.cache
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\obj\Debug\XAMLFormatter.csproj.CoreCompileInputs.cache
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\obj\Debug\XAMLFormatter.exe
+C:\Users\Ashish Chawda\source\repos\XAMLFormatter\XAMLFormatter\obj\Debug\XAMLFormatter.pdb
